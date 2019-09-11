@@ -1,0 +1,50 @@
+!SESSION 2019-08-19 11:48:24.010 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-08-19 11:48:47.398
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-08-20 13:18:30.634 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/xuyazhong/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/xuyazhong/.eclipse_keyring
+
+!ENTRY org.eclipse.egit.core 1 0 2019-08-20 13:18:34.754
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-08-20 13:38:53.471 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/xuyazhong/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/xuyazhong/.eclipse_keyring
+
+!ENTRY org.eclipse.egit.core 1 0 2019-08-20 13:38:57.341
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-08-20 14:34:55.724 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/xuyazhong/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/xuyazhong/.eclipse_keyring
+
+!ENTRY org.eclipse.egit.core 1 0 2019-08-20 14:34:59.708
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-09-11 17:01:10.238 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/xuyazhong/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/xuyazhong/.eclipse_keyring
+
+!ENTRY org.eclipse.egit.core 1 0 2019-09-11 17:01:14.235
+!MESSAGE Using Apache MINA sshd as ssh client.
