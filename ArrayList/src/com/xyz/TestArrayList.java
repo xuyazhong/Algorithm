@@ -17,5 +17,11 @@ public class TestArrayList {
 		}
 		
 		System.out.println(list);
+		
+		list.add(0, 100);
+		list.add(0, 102);
+		list.add(0, 103);
+		System.out.println(list);
+
 	}
 }
