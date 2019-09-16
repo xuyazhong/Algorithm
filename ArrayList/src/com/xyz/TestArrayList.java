@@ -6,11 +6,16 @@ public class TestArrayList {
 		
 		ArrayList list = new ArrayList();
 		
-		list.add(1);
-		list.add(3);
-		list.add(4);
+		for (int i = 0; i < 100; i++) {
+			list.add(i);
+		}
 		
 		System.out.println(list);
+
+		while (!list.isEmpty()) {
+			list.remove(0);			
+		}
 		
+		System.out.println(list);
 	}
 }
